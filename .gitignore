@@ -67,3 +67,8 @@ CLPUserNetworkSistem/CLPUserNetworkSistem.Domain/bin/Debug/net7.0/CLPUserNetwork
 CLPUserNetworkSistem/CLPUserNetworkSistem.Domain/obj/Debug/net7.0/_IsIncrementalBuild
 CLPUserNetworkSistem/CLPUserNetworkSistem.IoC/obj/Debug/net7.0/_IsIncrementalBuild
 CLPUserNetworkSistem/CLPUserNetworkSistem/obj/Debug/net7.0-windows/_IsIncrementalBuild
+CLPUserNetworkSistem/CLPUserNetworkSistem.Application/obj/Debug/net7.0/CLPUserNetworkSistem.Application.AssemblyInfo.cs
+CLPUserNetworkSistem/CLPUserNetworkSistem.Database/obj/Debug/net7.0/CLPUserNetworkSistem.Database.AssemblyInfo.cs
+CLPUserNetworkSistem/CLPUserNetworkSistem.Domain/obj/Debug/net7.0/CLPUserNetworkSistem.Domain.AssemblyInfo.cs
+CLPUserNetworkSistem/CLPUserNetworkSistem.IoC/obj/Debug/net7.0/CLPUserNetworkSistem.IoC.AssemblyInfo.cs
+CLPUserNetworkSistem/CLPUserNetworkSistem/obj/Debug/net7.0-windows/CLPUserNetworkSistem.AssemblyInfo.cs
