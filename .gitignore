@@ -72,3 +72,11 @@ CLPUserNetworkSistem/CLPUserNetworkSistem.Database/obj/Debug/net7.0/CLPUserNetwo
 CLPUserNetworkSistem/CLPUserNetworkSistem.Domain/obj/Debug/net7.0/CLPUserNetworkSistem.Domain.AssemblyInfo.cs
 CLPUserNetworkSistem/CLPUserNetworkSistem.IoC/obj/Debug/net7.0/CLPUserNetworkSistem.IoC.AssemblyInfo.cs
 CLPUserNetworkSistem/CLPUserNetworkSistem/obj/Debug/net7.0-windows/CLPUserNetworkSistem.AssemblyInfo.cs
+*.BuildWithSkipAnalyzers
+CLPUserNetworkSistem/CLPUserNetworkSistemFrontEnd/Telas/TelaRecuperarSenha.resx
+CLPUserNetworkSistem/CLPUserNetworkSistemFrontEnd/Telas/TelaLogin.resx
+*.1
+*.CopyComplete
+CLPUserNetworkSistem/CLPUserNetworkSistem.sln
+*.resx
+*.resources

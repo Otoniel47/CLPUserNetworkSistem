@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CLPUserNetworkSistem.Telas
+namespace CLPUserNetworkSistemFrontEnd.Telas
 {
-    public partial class Form1 : Form
+    public partial class TelaCLPUserNetworkSistem : UserControl
     {
-        public Form1()
+        public TelaCLPUserNetworkSistem()
         {
             InitializeComponent();
         }

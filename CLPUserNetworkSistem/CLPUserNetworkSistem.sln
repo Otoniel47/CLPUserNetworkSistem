@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPUserNetworkSistem", "CLPUserNetworkSistem\CLPUserNetworkSistem.csproj", "{352B16A6-0CE7-41A0-800D-3FACC4F4DF07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLPUserNetworkSistem", "CLPUserNetworkSistem\CLPUserNetworkSistem.csproj", "{352B16A6-0CE7-41A0-800D-3FACC4F4DF07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPUserNetworkSistem.Domain", "CLPUserNetworkSistem.Domain\CLPUserNetworkSistem.Domain.csproj", "{E9B42772-3F78-454B-A706-8241F73D4032}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLPUserNetworkSistem.Domain", "CLPUserNetworkSistem.Domain\CLPUserNetworkSistem.Domain.csproj", "{E9B42772-3F78-454B-A706-8241F73D4032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPUserNetworkSistem.Application", "CLPUserNetworkSistem.Application\CLPUserNetworkSistem.Application.csproj", "{1A437916-823D-4D5D-9406-D9EC152E1367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLPUserNetworkSistem.Application", "CLPUserNetworkSistem.Application\CLPUserNetworkSistem.Application.csproj", "{1A437916-823D-4D5D-9406-D9EC152E1367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPUserNetworkSistem.Database", "CLPUserNetworkSistem.Database\CLPUserNetworkSistem.Database.csproj", "{B958923F-EC54-477C-B1E4-CC035BF0B41E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLPUserNetworkSistem.Database", "CLPUserNetworkSistem.Database\CLPUserNetworkSistem.Database.csproj", "{B958923F-EC54-477C-B1E4-CC035BF0B41E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPUserNetworkSistem.IoC", "CLPUserNetworkSistem.IoC\CLPUserNetworkSistem.IoC.csproj", "{BFD71B15-E412-40A7-A9B2-7CDCD922459A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLPUserNetworkSistem.IoC", "CLPUserNetworkSistem.IoC\CLPUserNetworkSistem.IoC.csproj", "{BFD71B15-E412-40A7-A9B2-7CDCD922459A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPUserNetworkSistemFrontEnd", "CLPUserNetworkSistemFrontEnd\CLPUserNetworkSistemFrontEnd.csproj", "{A7E51710-43AF-49BF-940B-E9EE80666CE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{BFD71B15-E412-40A7-A9B2-7CDCD922459A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD71B15-E412-40A7-A9B2-7CDCD922459A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD71B15-E412-40A7-A9B2-7CDCD922459A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E51710-43AF-49BF-940B-E9EE80666CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E51710-43AF-49BF-940B-E9EE80666CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E51710-43AF-49BF-940B-E9EE80666CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E51710-43AF-49BF-940B-E9EE80666CE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
